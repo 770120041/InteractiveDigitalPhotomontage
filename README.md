@@ -56,6 +56,7 @@ Then run the shell cmd as below:
   * "7" : MAX DIFFERENCE mode
 
 
+
 ## UI instruction
   * UI shows as below:
   ![avatar](./img/UI.png)
